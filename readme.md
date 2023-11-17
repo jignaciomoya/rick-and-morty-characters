@@ -11,7 +11,7 @@ Debería quedar algo parecido a esto
 
 - Lista de personajes con imágenes, nombres y especies.
 - Paginación para navegar entre las páginas de personajes. Los botónes de `Previous page` y `Next page` están creados
-- Uso de la API de Rick and Morty para obtener datos de personajes. Este es el end point `https://rickandmortyapi.com/api/character/?page=(aquí añade el numero de la página)`
+- Uso de la API de Rick and Morty para obtener datos de personajes. Este es el end point `https://rickandmortyapi.com/api/character/?page=41`
 
 ## Instrucciones
 
